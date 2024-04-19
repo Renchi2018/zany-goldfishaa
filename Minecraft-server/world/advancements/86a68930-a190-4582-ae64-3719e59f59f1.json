@@ -1,0 +1,799 @@
+{
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-04-06 21:58:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-04-06 21:58:51 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-04-06 21:58:51 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_the_recipe": "2024-04-06 21:58:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop5": "2024-04-06 21:59:10 +0000",
+      "drop4": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement": "2024-04-06 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-04-07 21:36:30 +0000",
+      "minecraft:wooded_badlands": "2024-04-07 21:30:22 +0000",
+      "minecraft:badlands": "2024-04-07 21:04:13 +0000",
+      "minecraft:dark_forest": "2024-04-06 22:05:29 +0000",
+      "minecraft:stony_peaks": "2024-04-06 22:32:56 +0000",
+      "minecraft:mangrove_swamp": "2024-04-06 23:26:10 +0000",
+      "minecraft:sparse_jungle": "2024-04-06 23:43:56 +0000",
+      "minecraft:river": "2024-04-06 23:16:51 +0000",
+      "minecraft:lukewarm_ocean": "2024-04-07 00:25:41 +0000",
+      "minecraft:stony_shore": "2024-04-06 21:59:12 +0000",
+      "minecraft:forest": "2024-04-06 23:22:45 +0000",
+      "minecraft:lush_caves": "2024-04-06 23:06:32 +0000",
+      "minecraft:desert": "2024-04-06 23:18:58 +0000",
+      "minecraft:jungle": "2024-04-07 00:30:58 +0000",
+      "minecraft:savanna": "2024-04-06 23:19:25 +0000",
+      "minecraft:plains": "2024-04-06 23:19:12 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-04-06 21:59:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "arid_mountains": "2024-04-06 22:55:27 +0000",
+      "dry_bushland": "2024-04-06 22:57:38 +0000",
+      "steppe": "2024-04-06 22:56:42 +0000",
+      "prismachasm": "2024-04-06 23:03:59 +0000",
+      "ancient_delta": "2024-04-06 23:06:51 +0000",
+      "marsh": "2024-04-06 23:25:58 +0000",
+      "willow_forest": "2024-04-06 22:04:55 +0000",
+      "barley_fields": "2024-04-07 21:43:31 +0000",
+      "rocky_reef": "2024-04-07 21:53:39 +0000",
+      "redstone_caves": "2024-04-06 23:04:20 +0000",
+      "grassy_beach": "2024-04-06 22:09:17 +0000",
+      "blackwood_taiga": "2024-04-06 22:05:27 +0000",
+      "rocky_meadow": "2024-04-07 21:57:15 +0000",
+      "magnolia_highlands": "2024-04-06 21:59:16 +0000",
+      "eucalyptus_forest": "2024-04-06 22:56:41 +0000",
+      "joshua_desert": "2024-04-07 21:49:20 +0000",
+      "deciduous_forest": "2024-04-06 22:18:26 +0000",
+      "bamboo_forest": "2024-04-06 22:10:38 +0000",
+      "saguaro_desert": "2024-04-07 21:49:23 +0000",
+      "baobab_savanna": "2024-04-06 23:01:00 +0000",
+      "grassland": "2024-04-06 22:19:07 +0000",
+      "prairie": "2024-04-06 23:45:55 +0000",
+      "redwoods": "2024-04-06 23:43:55 +0000",
+      "rainforest": "2024-04-07 21:31:06 +0000",
+      "lupine_plains": "2024-04-06 22:04:56 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "arid_mountains": "2024-04-06 22:55:27 +0000",
+      "dry_bushland": "2024-04-06 22:57:38 +0000",
+      "steppe": "2024-04-06 22:56:42 +0000",
+      "marsh": "2024-04-06 23:25:58 +0000",
+      "willow_forest": "2024-04-06 22:04:55 +0000",
+      "barley_fields": "2024-04-07 21:43:31 +0000",
+      "rocky_reef": "2024-04-07 21:53:39 +0000",
+      "grassy_beach": "2024-04-06 22:09:17 +0000",
+      "blackwood_taiga": "2024-04-06 22:05:27 +0000",
+      "rocky_meadow": "2024-04-07 21:57:15 +0000",
+      "magnolia_highlands": "2024-04-06 21:59:16 +0000",
+      "eucalyptus_forest": "2024-04-06 22:56:41 +0000",
+      "joshua_desert": "2024-04-07 21:49:20 +0000",
+      "deciduous_forest": "2024-04-06 22:18:26 +0000",
+      "bamboo_forest": "2024-04-06 22:10:38 +0000",
+      "saguaro_desert": "2024-04-07 21:49:23 +0000",
+      "baobab_savanna": "2024-04-06 23:01:00 +0000",
+      "grassland": "2024-04-06 22:19:07 +0000",
+      "prairie": "2024-04-06 23:45:55 +0000",
+      "redwoods": "2024-04-06 23:43:55 +0000",
+      "rainforest": "2024-04-07 21:31:06 +0000",
+      "lupine_plains": "2024-04-06 22:04:56 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-04-06 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-04-06 21:59:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/items/spellbooks/natures_wrath/been_to_mountains": {
+    "criteria": {
+      "5": "2024-04-06 22:00:07 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-04-06 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-06 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-04-06 22:03:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-04-06 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-04-06 22:10:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-04-06 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-04-06 22:19:49 +0000",
+      "opened_chest": "2024-04-06 22:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-04-06 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-04-06 22:12:45 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-04-06 22:12:47 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-04-06 22:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-04-06 22:13:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2024-04-06 22:13:36 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2024-04-06 22:15:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-04-06 22:16:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-04-06 22:19:49 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-04-06 22:19:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2024-04-07 01:28:10 +0000",
+      "pants": "2024-04-07 01:00:12 +0000",
+      "helmet": "2024-04-06 22:21:39 +0000",
+      "boots": "2024-04-07 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-04-06 22:21:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-04-06 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-04-06 22:22:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-04-06 22:22:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-04-06 22:22:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-04-06 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-04-06 22:25:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-04-06 22:25:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-04-06 22:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-04-07 21:34:23 +0000",
+      "minecraft:skeleton": "2024-04-06 22:34:25 +0000",
+      "minecraft:ravager": "2024-04-07 01:07:03 +0000",
+      "minecraft:spider": "2024-04-06 22:34:26 +0000",
+      "minecraft:creeper": "2024-04-07 01:06:56 +0000",
+      "quark:forgotten": "2024-04-07 00:39:07 +0000",
+      "minecraft:husk": "2024-04-07 00:48:47 +0000",
+      "minecraft:cave_spider": "2024-04-07 00:42:09 +0000",
+      "minecraft:silverfish": "2024-04-06 23:45:23 +0000",
+      "minecraft:stray": "2024-04-06 23:56:22 +0000",
+      "minecraft:vex": "2024-04-07 02:40:12 +0000",
+      "minecraft:zombie": "2024-04-06 22:27:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-04-06 22:27:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-04-06 22:43:16 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-04-06 22:43:16 +0000",
+      "inv_changed-diamond": "2024-04-06 22:43:16 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-04-06 22:43:16 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-04-06 22:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-04-06 22:44:13 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance": "2024-04-06 22:50:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-04-06 22:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-04-06 23:00:55 +0000",
+      "golden_apple": "2024-04-07 01:21:25 +0000",
+      "cooked_chicken": "2024-04-07 02:38:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-04-06 23:03:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2024-04-06 23:04:20 +0000",
+      "prismachasm": "2024-04-06 23:03:59 +0000",
+      "ancient_delta": "2024-04-06 23:06:51 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-04-06 23:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-04-06 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-04-06 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-04-06 23:18:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2024-04-06 23:19:39 +0000",
+      "tunic": "2024-04-06 23:48:56 +0000"
+    },
+    "done": false
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-04-06 23:23:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-04-06 23:27:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-04-06 23:31:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-06 23:35:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-04-06 23:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-04-06 23:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-04-06 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-04-06 23:57:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-07 00:03:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-04-07 00:03:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-04-07 00:23:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-07 00:26:38 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2024-04-07 00:30:58 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-04-07 00:31:06 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2024-04-07 00:33:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-04-07 00:40:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-04-07 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-04-07 00:51:54 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-04-07 01:12:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2024-04-07 01:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-04-07 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2024-04-07 01:48:21 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy": "2024-04-07 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-04-07 02:24:44 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry": "2024-04-07 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2024-04-07 02:28:08 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-04-07 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-04-07 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-04-07 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2024-04-07 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-04-07 21:00:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-07 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-04-07 21:04:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2024-04-07 21:25:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2024-04-07 21:25:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-04-07 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2024-04-07 21:34:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-04-07 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-04-07 21:50:13 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2024-04-07 21:50:13 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2024-04-07 22:12:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-04-07 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
